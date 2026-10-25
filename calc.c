@@ -1,5 +1,5 @@
 // Zarina Alliyarova 251ADB103
-// Optional GitHub URL: https://github.com/z10565/Graded-Lab
+// Optional GitHub URL: https://github.com/z10565/calculator_c
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used: RTU calculator lab specification and its calc-tests.zip;
 //   ChatGPT (OpenAI, 2026-10-19, this conversation). https://chatgpt.com/share/6ade5136-286c-83ed-bbb6-d541fddcd39c
